@@ -28,11 +28,17 @@ The current experience includes:
 
 ## 📸 Showcase
 
-<p align="center">
-  <img src="aset/showcase.png" alt="Soto Gubeng Surabaya homepage showcase" width="32%" />
-  <img src="aset/showcase_2.png" alt="Soto Gubeng Surabaya menu showcase" width="32%" />
-  <img src="aset/showcase_3.png" alt="Soto Gubeng Surabaya testimonials showcase" width="32%" />
-</p>
+<div align="center">
+  <div style="max-width: 95%; margin: 0 auto 1rem 0;">
+    <img src="aset/showcase.png" alt="Soto Gubeng Surabaya homepage showcase" width="100%" />
+  </div>
+  <div style="max-width: 91%; margin: 0 auto 1rem 2rem;">
+    <img src="aset/showcase_2.png" alt="Soto Gubeng Surabaya menu showcase" width="100%" />
+  </div>
+  <div style="max-width: 87%; margin: 0 auto 0 4rem;">
+    <img src="aset/showcase_3.png" alt="Soto Gubeng Surabaya testimonials showcase" width="100%" />
+  </div>
+</div>
 
 ## ⭐ Main features
 
