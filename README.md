@@ -14,6 +14,8 @@
 
 Modern, mobile-first website for the Soto Gubeng Surabaya brand — built to showcase the menu, highlight testimonials, and make ordering easy through WhatsApp. ✨
 
+Live demo: https://soto-gubeng-surabaya.vercel.app/
+
 ## 🔎 Project overview
 
 This repository contains a polished restaurant landing page for **Soto Gubeng Surabaya**. The UI is designed to feel warm, appetizing, and responsive on desktop and mobile.
