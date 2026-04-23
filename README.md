@@ -29,9 +29,9 @@ The current experience includes:
 ## 📸 Showcase
 
 <p align="center">
-  <img src="aset/sotogubeng_campur.webp" alt="Soto Gubeng Campur showcase" width="32%" />
-  <img src="aset/sotogubeng_daging.webp" alt="Soto Gubeng Daging showcase" width="32%" />
-  <img src="aset/sotogubeng_buntut.webp" alt="Soto Gubeng Buntut showcase" width="32%" />
+  <img src="aset/showcase.png" alt="Soto Gubeng Surabaya homepage showcase" width="32%" />
+  <img src="aset/showcase_2.png" alt="Soto Gubeng Surabaya menu showcase" width="32%" />
+  <img src="aset/showcase_3.png" alt="Soto Gubeng Surabaya testimonials showcase" width="32%" />
 </p>
 
 ## ⭐ Main features
