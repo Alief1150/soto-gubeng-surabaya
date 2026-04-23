@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 13%;
+  --foreground: 43 78% 93%;
+  --card: 0 0% 16%;
+  --card-foreground: 43 78% 93%;
+  --border: 0 0% 25%;
+  --muted: 0 0% 18%;
+  --muted-foreground: 40 18% 65%;
+  --primary: 21 100% 56%;
+  --primary-foreground: 0 0% 13%;
+  --secondary: 42 67% 87%;
+  --secondary-foreground: 0 0% 13%;
+  --accent: 42 67% 87%;
+  --accent-foreground: 0 0% 13%;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+}
+
+body {
+  background:
+    radial-gradient(circle at top, rgba(255, 109, 31, 0.18), transparent 26%),
+    radial-gradient(circle at 20% 15%, rgba(245, 231, 198, 0.09), transparent 20%),
+    linear-gradient(180deg, #222222 0%, #262626 45%, #222222 100%);
+  color: hsl(var(--foreground));
+}
+
+* {
+  border-color: hsl(var(--border));
+}
+
+::selection {
+  background: rgba(255, 109, 31, 0.28);
+}
+
+.typing-text {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.typing-caret {
+  border-right: 2px solid rgba(255, 109, 31, 0.85);
+  padding-right: 0.2rem;
+  animation: caret 0.85s step-end infinite;
+}
+
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
+}
